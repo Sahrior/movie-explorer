@@ -4,13 +4,15 @@ import Footer from "./Footer";
 
 function MainLayout() {
   return (
-    <>
+    <div className="min-h-screen bg-zinc-950 text-white">
       <Navbar />
 
-      <Outlet />
+      <main>
+        <Outlet />
+      </main>
 
       <Footer />
-    </>
+    </div>
   );
 }
 
