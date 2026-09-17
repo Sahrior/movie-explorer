@@ -5,7 +5,7 @@ Movie Explorer allows users to browse TV shows, search for specific shows, and v
 
 ## 🚀 Live Demo
 
-**Live Website:** 
+**Live Website:** https://movieexplorer-lake-ten.vercel.app/
 
 ## 📌 Features
 
